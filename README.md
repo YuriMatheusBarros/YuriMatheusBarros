@@ -11,8 +11,6 @@
 
 ---
 
-## Sobre mim
-
 🎯 Profissional em transição para a área de **gestão ágil de produtos**, com perfil de liderança, iniciativa e organização.
 
 💬 Participei ativamente de eventos como:
