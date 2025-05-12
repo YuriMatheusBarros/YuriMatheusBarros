@@ -1,12 +1,12 @@
-<h1 align="center">Olá! 👋 Me chamo Yuri</h1>
-<p align="center"><b><font color="orange">Profissional em transição para a área de gestão ágil de produtos</font></b></p>
+<h1 align="center">Bem vindo ao meu perfil!</h1>
+<p align="center"><b><font color="orange">"Aprender com os erros é parte do processo de melhoria continua"</font></b></p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuriMatheusBarros&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuriMatheusBarros&show_icons=true&theme=default" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMatheusBarros&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMatheusBarros&layout=compact&theme=default" />
 </div>
 
 ---
@@ -61,6 +61,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-matheus-barros-1867682aa)
 
 ---
-
-<p align="center"><i>“Produtos de sucesso nascem da união entre empatia, colaboração e propósito.”</i></p>
-
