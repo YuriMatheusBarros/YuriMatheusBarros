@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo ao meu perfil!</h1>
+<h1 align="center">Bem vindo ao meu GIT!</h1>
 <p align="center"><b><font color="orange">"Aprender com os erros é parte do processo de melhoria continua"</font></b></p>
 
 ---
