@@ -11,7 +11,7 @@
 
 ---
 
-🎯 Profissional com perfil de liderança, iniciativa e organização.
+## Profissional com perfil de liderança, iniciativa e organização.
 
 💬 Participei ativamente de eventos como:
 - **HackOnquista**
