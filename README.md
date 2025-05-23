@@ -3,10 +3,6 @@
 
 ---
 
-
-
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YuriMatheusBarros&show_icons=true&theme=default" />
   <br>
@@ -14,9 +10,6 @@
   <br>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YuriMatheusBarros)](https://git.io/streak-stats)
-
-  ![Snake animation](https://raw.githubusercontent.com/YuriMatheusBarros/YuriMatheusBarros/output/github-contribution-grid-snake.svg)
-
   
 </div>
 
