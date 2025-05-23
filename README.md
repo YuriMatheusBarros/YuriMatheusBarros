@@ -3,15 +3,19 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YuriMatheusBarros/YuriMatheusBarros/main/profile-south-season-animate%20(1).svg" alt="Animação" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/YuriMatheusBarros/YuriMatheusBarros/output/github-contribution-grid-snake.svg)
 
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YuriMatheusBarros&show_icons=true&theme=default" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMatheusBarros&layout=compact&theme=default" />
+  <br>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YuriMatheusBarros)](https://git.io/streak-stats)
+  
 </div>
 
 ---
