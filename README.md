@@ -3,6 +3,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YuriMatheusBarros/YuriMatheusBarros/main/profile-south-season-animate%20(1).svg" alt="Animação" />
+</p>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YuriMatheusBarros&show_icons=true&theme=default" />
   <br>
