@@ -1,0 +1,17 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # roda todo dia à meia-noite UTC
+  workflow_dispatch:      # permite rodar manualmente
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YuriMatheusBarros
+
+          outputs: |
+            dist/github-contribution-grid-snake.svg
