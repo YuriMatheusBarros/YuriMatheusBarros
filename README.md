@@ -13,6 +13,9 @@
   
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/YuriMatheusBarros/YuriMatheusBarros/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 ## Profissional com perfil de liderança, iniciativa e organização.
