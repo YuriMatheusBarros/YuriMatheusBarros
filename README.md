@@ -12,22 +12,9 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YuriMatheusBarros)](https://git.io/streak-stats)
 
   ![Snake animation](https://raw.githubusercontent.com/YuriMatheusBarros/snk/output/github-contribution-grid-snake.svg)
-
-
   
 </div>
 
-
----
-
-## Profissional com perfil de liderança, iniciativa e organização.
-
-💬 Participei ativamente de eventos como:
-- **HackOnquista**
-- **Desafio Jovem Empreendedor (Sebrae)**
-- **Residência em Software (CEPEDI)**
-
-✨ Nessas experiências, liderei ideias e colaborei com times diversos em busca de soluções inovadoras.
 
 ---
 
@@ -39,20 +26,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Handlebars](https://img.shields.io/badge/Handlebars.js-000000?style=flat&logo=handlebarsdotjs&logoColor=orange)
-
----
-
-## Em formação contínua
-
-- 📘 **Scrum, Agile e Desenvolvimento de Produtos**
-- 💡 **Liderança, Comunicação e Inteligência Emocional**
-- 🛠️ Cursos complementares em tecnologia e metodologias ágeis
-
----
-
-## Objetivo Profissional
-
-📌 Buscando minha **primeira oportunidade como Product Owner ou Scrum Master**, para aplicar minha capacidade de liderança e visão de produto na entrega de soluções ágeis, eficientes e com valor.
 
 ---
 
