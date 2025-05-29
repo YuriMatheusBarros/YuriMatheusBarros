@@ -11,6 +11,9 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YuriMatheusBarros)](https://git.io/streak-stats)
 
+  ![Snake animation](https://raw.githubusercontent.com/YuriMatheusBarros/snk/output/github-contribution-grid-snake.svg)
+
+
   
 </div>
 
