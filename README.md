@@ -42,15 +42,6 @@
 
 ---
 
-## Projetos em Destaque
-
-🔗 [**Site-Jogo-Node**](https://github.com/YuriMatheusBarros/Site-Jogo-Node)  
-🔗 [**Teste de Personalidade JS**](https://github.com/YuriMatheusBarros/Teste-de-Personalidade-JS.Version)  
-🔗 [**Portfólio Cyberpunk**](https://github.com/YuriMatheusBarros/Portf-lio-Cyberpunk)  
-🔗 [**Teste de Humor**](https://github.com/YuriMatheusBarros/Teste-do-humor)
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-matheus-barros-1867682aa)
