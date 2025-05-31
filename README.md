@@ -3,16 +3,29 @@
 
 ---
 
+<!-- Layout em grade com 2 por 1 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuriMatheusBarros&show_icons=true&theme=default" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMatheusBarros&layout=compact&theme=default" />
-  <br>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YuriMatheusBarros)](https://git.io/streak-stats)
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YuriMatheusBarros&show_icons=true&theme=default" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMatheusBarros&layout=compact&theme=default" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=YuriMatheusBarros" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  ![Snake animation](https://raw.githubusercontent.com/YuriMatheusBarros/snk/output/github-contribution-grid-snake.svg)
-  
+  <!-- Snake animation -->
+  <br>
+  <img src="https://raw.githubusercontent.com/YuriMatheusBarros/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 
